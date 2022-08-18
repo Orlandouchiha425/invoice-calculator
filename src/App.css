@@ -36,3 +36,24 @@
     transform: rotate(360deg);
   }
 }
+
+footer li a{
+  color:tomato;
+}
+
+
+.copy{
+  color: lightgray;
+}
+
+ul{
+  padding:0;
+  list-style-type: none;
+  display: flex;
+  justify-content:space-evenly;
+  
+
+}
+footer{
+  padding:1rem  2rem 1rem 2rem;
+}
